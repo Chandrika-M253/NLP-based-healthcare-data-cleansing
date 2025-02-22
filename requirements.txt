@@ -8,3 +8,8 @@ pathlib
 rapidfuzz
 seaborn
 spacy
+Django>=4.0
+scikit-learn
+scipy
+openpyxl
+imblearn
